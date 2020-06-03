@@ -124,14 +124,6 @@
         > 5 3 5 2 8   
 
      使用简化版的桶排序将该组数降序输出
-   + Java 实现版本  
-     ```java
-      public static void main(String[]args){
-
-          
-      }
-     ```  
-
 
    + C 实现版本  
 
